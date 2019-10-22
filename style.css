@@ -1,0 +1,54 @@
+body {
+    width: 1840px;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 2%;
+    background-color: #c4c4c2;
+}
+
+
+main {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+    font-style: italic;
+}
+
+.content {
+    color: #20424c;
+    padding: 2%;
+}
+
+main p {
+    font-size: 24px;
+    font-weight: 100;
+    line-height: 72px;
+}
+
+.line {
+    height: 70px
+}
+
+table {
+    background-color: #b7b2af;
+}
+
+footer {
+    display: flex;
+    width: 78%;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-top: 5%;
+    padding-left: 1%;
+    flex-wrap: wrap;
+
+
+}
+
+input {
+    width: 500px;
+
+}
+
+.
